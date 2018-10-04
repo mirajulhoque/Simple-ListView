@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Simple Listview</string>
+
+
+    <string-array name="country_name">
+
+        <item>Bangladesh</item>
+        <item> India</item>
+        <item>Pakistan</item>
+        <item>Australia</item>
+        <item>Afghanistan</item>
+        <item>Saudi  Arab </item>
+
+        <item>Sri Lanka</item>
+        <item>New Zealand </item>
+        <item> Japan </item>
+        <item> England</item>
+        <item>West Indies</item>
+
+        <item>America</item>
+        <item> Argentina</item>
+        <item>  Brazil</item>
+        <item>Bhutan</item>
+        <item> Canada</item>
+
+        <item>Malaysia</item>
+        <item>Sweden</item>
+        <item>Denmark</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Germen
+
+
+
+    </string-array>
+</resources>
